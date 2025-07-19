@@ -1,4 +1,4 @@
-<h1 align="center">Ricardo Fabian de Mello Albuquerque Junior</h1>
+<h1 align="center">Ricardo Fabian</h1>
 <h3 align="center">🇧🇷 Desenvolvedor em formação | 🇺🇸 Developer in training</h3>
 
 ---
