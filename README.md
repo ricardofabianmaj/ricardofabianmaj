@@ -5,14 +5,8 @@
 
 ## 👨‍💻 Sobre mim | About Me
 
-🎯 Atualmente sou militar da ativa do Exército Brasileiro e estou em transição para a área de tecnologia.  
-🎯 I'm currently an active-duty soldier in the Brazilian Army and transitioning into the tech field.
-
 📚 Estudo constantemente tecnologias modernas como React, Node.js, Spring Boot e Next.js.  
 📚 I constantly study modern technologies such as React, Node.js, Spring Boot, and Next.js.
-
-🚀 Busco uma oportunidade de estágio (remunerado ou não) para aplicar meus conhecimentos em desenvolvimento Full Stack.  
-🚀 I am looking for an internship opportunity (paid or unpaid) to apply my skills in Full Stack development.
 
 ---
 ## 🛠️ Tecnologias e Ferramentas | Technologies & Tools
