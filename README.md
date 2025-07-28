@@ -1,5 +1,5 @@
 <h1 align="center">Ricardo Fabian</h1>
-<h3 align="center">🇧🇷 Desenvolvedor em formação | 🇺🇸 Developer in training</h3>
+<h3 align="center">🇧🇷 Desenvolvedor Full Stack | 🇺🇸 Full Stack Developer</h3>
 
 ---
 
