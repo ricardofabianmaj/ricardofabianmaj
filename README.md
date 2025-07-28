@@ -91,7 +91,7 @@
 ---
 
 ### 🛒 Fabians Store
-🧪 Java • Spring Boot • React • TailwindCSS • PostgreSQL
+🧪 Java • Spring Boot • ReactJS • TailwindCSS • PostgreSQL • Typescript • Axios
 📂 Sistema web fullstack para gerenciamento de produtos com autenticação e persistência de dados.
 📂 Fullstack web app for product management with authentication and data persistence.
 🔗 [Ver no GitHub | View on GitHub] (https://github.com/ricardofabianmaj/fabians-store)
