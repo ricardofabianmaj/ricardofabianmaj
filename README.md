@@ -1,14 +1,6 @@
 <h1 align="center">Ricardo Fabian</h1>
 <h3 align="center">🇧🇷 Desenvolvedor Full Stack | 🇺🇸 Full Stack Developer</h3>
 
----
-
-## 👨‍💻 Sobre mim | About Me
-
-📚 Estudo constantemente tecnologias modernas como React, Node.js, Spring Boot e Next.js.  
-📚 I constantly study modern technologies such as React, Node.js, Spring Boot, and Next.js.
-
----
 ## 🛠️ Tecnologias e Ferramentas | Technologies & Tools
 
 ### Front-end
